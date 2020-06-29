@@ -10,3 +10,4 @@ validity checker for sudoku
   - the length of the subsection is valid
 
 3. a function that compares to fields
+
